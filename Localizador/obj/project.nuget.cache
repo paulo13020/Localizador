@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kXy3lAZgerRkL1+HIKyn+HCMe5zLtrp9qDXxr7IYLZCK5dNULDXDk9M0ZYnebqSIdisu3jKOvEvi5D3RN6g5g==",
+  "success": true,
+  "projectFilePath": "D:\\DEV\\PROJETOS_MVC\\Localizador\\Localizador\\Localizador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\firebirdsql.data.firebirdclient\\9.1.1\\firebirdsql.data.firebirdclient.9.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
